@@ -19,16 +19,16 @@
 
 ---
 
-### 🌱 Sobre mí
+###  Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Sistemas** en la **Universidad Nacional de Ingeniería (UNI)**.  
-- 🧠 Apasionado por el **desarrollo web**, **bases de datos** y la **optimización de procesos tecnológicos**.  
-- 🛠️ Experiencia con **Django**, **Node.js**, **Express**, **PostgreSQL**, y **MySQL**.  
-- 📫 Puedes contactarme en: [angelsoza53@gmail.com](mailto:angelsoza53@gmail.com)  
+-  Estudiante de **Ingeniería en Sistemas** en la **Universidad Nacional de Ingeniería (UNI)**.  
+-  Apasionado por el **desarrollo web**, **bases de datos** y la **optimización de procesos tecnológicos**.  
+-  Experiencia con **Django**, **Node.js**, **Express**, **PostgreSQL**, y **MySQL**.  
+-  Puedes contactarme en: [angelsoza53@gmail.com](mailto:angelsoza53@gmail.com)  
 
 ---
 
-### 🧰 Lenguajes y Herramientas
+### Lenguajes y Herramientas
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
