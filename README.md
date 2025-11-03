@@ -1,4 +1,4 @@
-<h3 title="Hey there!">👋 ¡Hola! Soy Miguel Ángel Gutiérrez Soza</h3>
+<h3 title="Hey there!"> ¡Hola! Soy Miguel Ángel Gutiérrez Soza</h3>
 
 <a href="https://www.linkedin.com/in/miguelangelgutierrezsoza">
   <img align="left" alt="Miguel's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -20,8 +20,7 @@
 ---
 
 ###  Sobre mí
-
--  Estudiante de **Ingeniería en Sistemas** en la **Universidad Nacional de Ingeniería (UNI)**.  
+  
 -  Apasionado por el **desarrollo web**, **bases de datos** y la **optimización de procesos tecnológicos**.  
 -  Experiencia con **Django**, **Node.js**, **Express**, **PostgreSQL**, y **MySQL**.  
 -  Puedes contactarme en: [angelsoza53@gmail.com](mailto:angelsoza53@gmail.com)  
