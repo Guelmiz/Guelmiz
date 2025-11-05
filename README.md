@@ -1,6 +1,6 @@
 <h3 title="Hey there!"> ¡Hola! Soy Miguel Ángel Gutiérrez Soza</h3>
 
-<a href="https://www.linkedin.com/in/miguelangelgutierrezsoza">
+<a href="">
   <img align="left" alt="Miguel's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:angelsoza53@gmail.com">
