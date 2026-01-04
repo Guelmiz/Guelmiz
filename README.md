@@ -21,7 +21,7 @@
 -  Apasionado por el **desarrollo web**, **bases de datos** y la **optimización de procesos tecnológicos**.  
 -  Experiencia con **Django**, **Node.js**, **Express**, **PostgreSQL**, y **MySQL**.  
 -  Puedes contactarme en: [angelsoza53@gmail.com](mailto:angelsoza53@gmail.com)  
-
+ 
 ---
 
 ### Lenguajes y Herramientas
